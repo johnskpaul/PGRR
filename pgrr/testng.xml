@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="PGRRSuite">
+  <test name="RegressionTest" preserve-order="true">
+    <classes>
+      <!-- <class name="com.dbmi.pgrr.PgrrLogin"/> -->
+      <class name="com.dbmi.pgrr.TN_pgrrLogin"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [PGRRSuite]">
+  <test name="RegressionTest">
+    <classes>
+      <class name="com.dbmi.pgrr.TN_pgrrLogin"/>
+    </classes>
+  </test> <!-- RegressionTest -->
+</suite> <!-- Failed suite [PGRRSuite] -->
